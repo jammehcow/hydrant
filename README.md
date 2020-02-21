@@ -51,6 +51,10 @@ Default settings are used, but here they are if you want them:
 	support = support/
 ```
 
+## License
+
+See [LICENSE](./LICENSE)
+
 ## Credits
 
 So far just me ;(
