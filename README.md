@@ -26,6 +26,31 @@ hydrant is a fully open source implementation of a Minecraft server for 1.12.2
   - [ ] Multiple players can interact with update on all clients
   - [ ] More to come...
 
+## Contributing
+
+### Rules
+  1. Enjoy what you're doing
+  2. If someone questions something you do, don't get feisty. Explain your thought process and they might learn from it
+  3. Don't be a dick
+
+### Git Flow
+
+We use git flow to manage our branching workflow.
+Default settings are used, but here they are if you want them:
+
+```
+[gitflow "branch"]
+	master = master
+	develop = develop
+[gitflow "prefix"]
+	feature = feature/
+	release = release/
+	hotfix = hotfix/
+	versiontag = 
+	bugfix = bugfix/
+	support = support/
+```
+
 ## Credits
 
 So far just me ;(
